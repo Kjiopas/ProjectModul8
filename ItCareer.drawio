@@ -1,0 +1,131 @@
+<mxfile host="app.diagrams.net" modified="2024-04-20T12:38:34.740Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="zhF_8KDCuqycdBrrBAPi" version="24.1.0" type="device">
+  <diagram name="Страница-1" id="klXxlbbj4_sCr7XmceIk">
+    <mxGraphModel dx="2311" dy="922" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Ey3LiKpSFVBAtOvbdHjc-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Ey3LiKpSFVBAtOvbdHjc-1" target="Ey3LiKpSFVBAtOvbdHjc-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ey3LiKpSFVBAtOvbdHjc-1" value="Старт" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="90" y="20" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Ey3LiKpSFVBAtOvbdHjc-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Ey3LiKpSFVBAtOvbdHjc-6" target="Ey3LiKpSFVBAtOvbdHjc-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ey3LiKpSFVBAtOvbdHjc-6" value="Въвежда се информация към keypad-а" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="80" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ey3LiKpSFVBAtOvbdHjc-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Ey3LiKpSFVBAtOvbdHjc-8" target="Ey3LiKpSFVBAtOvbdHjc-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ey3LiKpSFVBAtOvbdHjc-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Ey3LiKpSFVBAtOvbdHjc-8" target="Ey3LiKpSFVBAtOvbdHjc-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ey3LiKpSFVBAtOvbdHjc-23" value="Да" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Ey3LiKpSFVBAtOvbdHjc-21">
+          <mxGeometry x="-0.18" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ey3LiKpSFVBAtOvbdHjc-8" value="Въведената парола правилна ли е?" style="rhombus;whiteSpace=wrap;html=1;rotation=0;" vertex="1" parent="1">
+          <mxGeometry x="40" y="160" width="140" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="Ey3LiKpSFVBAtOvbdHjc-50" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Ey3LiKpSFVBAtOvbdHjc-15" target="Ey3LiKpSFVBAtOvbdHjc-49">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ey3LiKpSFVBAtOvbdHjc-15" value="Въведете отново.Остават 2 опита" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="570" y="190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ey3LiKpSFVBAtOvbdHjc-40" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Ey3LiKpSFVBAtOvbdHjc-20" target="Ey3LiKpSFVBAtOvbdHjc-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ey3LiKpSFVBAtOvbdHjc-46" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Ey3LiKpSFVBAtOvbdHjc-20" target="Ey3LiKpSFVBAtOvbdHjc-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ey3LiKpSFVBAtOvbdHjc-20" value="Натиснат ли е бутонът #?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="420" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Ey3LiKpSFVBAtOvbdHjc-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Ey3LiKpSFVBAtOvbdHjc-24" target="Ey3LiKpSFVBAtOvbdHjc-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ey3LiKpSFVBAtOvbdHjc-38" value="Да" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Ey3LiKpSFVBAtOvbdHjc-37">
+          <mxGeometry x="-0.175" y="-3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ey3LiKpSFVBAtOvbdHjc-44" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Ey3LiKpSFVBAtOvbdHjc-24" target="Ey3LiKpSFVBAtOvbdHjc-43">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ey3LiKpSFVBAtOvbdHjc-24" value="Проверка дали е натиснат знакът * ?" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="710" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ey3LiKpSFVBAtOvbdHjc-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="Ey3LiKpSFVBAtOvbdHjc-27" target="Ey3LiKpSFVBAtOvbdHjc-58">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ey3LiKpSFVBAtOvbdHjc-27" value="Вратата се заключва" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="430" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ey3LiKpSFVBAtOvbdHjc-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Ey3LiKpSFVBAtOvbdHjc-36" target="Ey3LiKpSFVBAtOvbdHjc-58">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ey3LiKpSFVBAtOvbdHjc-36" value="Системата се заключва.Отваря се скрита врата." style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="870" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ey3LiKpSFVBAtOvbdHjc-41" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Ey3LiKpSFVBAtOvbdHjc-39" target="Ey3LiKpSFVBAtOvbdHjc-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ey3LiKpSFVBAtOvbdHjc-39" value="Вратата остава отключена" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="560" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ey3LiKpSFVBAtOvbdHjc-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Ey3LiKpSFVBAtOvbdHjc-43" target="Ey3LiKpSFVBAtOvbdHjc-58">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ey3LiKpSFVBAtOvbdHjc-43" value="Вратата остава отключена" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="710" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ey3LiKpSFVBAtOvbdHjc-45" value="Не" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="190" y="718" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ey3LiKpSFVBAtOvbdHjc-47" value="Да" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="180" y="438" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ey3LiKpSFVBAtOvbdHjc-48" value="Не" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="390" y="198" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ey3LiKpSFVBAtOvbdHjc-55" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Ey3LiKpSFVBAtOvbdHjc-49" target="Ey3LiKpSFVBAtOvbdHjc-54">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ey3LiKpSFVBAtOvbdHjc-57" value="Не" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Ey3LiKpSFVBAtOvbdHjc-55">
+          <mxGeometry x="-0.0786" y="3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ey3LiKpSFVBAtOvbdHjc-49" value="Има ли правилно въведена парола?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="310" width="180" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="Ey3LiKpSFVBAtOvbdHjc-51" value="" style="curved=1;endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="Ey3LiKpSFVBAtOvbdHjc-49" target="Ey3LiKpSFVBAtOvbdHjc-20">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="470" y="370" as="sourcePoint" />
+            <mxPoint x="520" y="320" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="520" y="370" />
+              <mxPoint x="340" y="410" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ey3LiKpSFVBAtOvbdHjc-53" value="Да" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="410" y="368" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ey3LiKpSFVBAtOvbdHjc-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Ey3LiKpSFVBAtOvbdHjc-54" target="Ey3LiKpSFVBAtOvbdHjc-58">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ey3LiKpSFVBAtOvbdHjc-54" value="Системата се заключва и достъпът се прекъсва." style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="500" width="180" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="Ey3LiKpSFVBAtOvbdHjc-58" value="Край" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="605" y="875" width="50" height="50" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
